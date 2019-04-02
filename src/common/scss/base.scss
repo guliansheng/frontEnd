@@ -1,0 +1,29 @@
+.clearfix:after{
+	content: "";
+	display: block;
+	clear: both;
+}
+.fl{
+	float: left;
+}
+.fr{
+	float: right;
+}
+table thead th{
+	font-weight: normal;
+	text-align: left;
+}
+
+body{
+    font-family:'Microsoft YaHei';
+}
+
+div{
+    box-sizing: border-box;
+}
+
+.hide{
+	display: none;
+}
+
+
